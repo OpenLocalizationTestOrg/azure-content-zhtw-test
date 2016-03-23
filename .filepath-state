@@ -16291,6 +16291,9 @@
   "b3d9f062b97568437913438521a68f110f0e47a2": [
     "articles\\azure-portal\\role-based-access-control-xplat-cli.md"
   ],
+  "1bba62891d26784d8079dcaf9789da22edc1f251": [
+    "articles\\azure-portal-overview.md"
+  ],
   "78ee4aba773d61fa0e5e185944d221c56e010e1a": [
     "articles\\azure-portal-overview.md"
   ],
@@ -40182,5 +40185,8 @@
   ],
   "cd025d3b4555c0d7dad62b467caa13796577c4b3": [
     "README.md"
+  ],
+  "7e9c3c2bdcf32439268ab7629b5455f7a134d2bc": [
+    "articles\\mobile-services\\media\\mobile-services-dotnet-backend-hybrid-connections-get-started\\11.png"
   ]
 }
