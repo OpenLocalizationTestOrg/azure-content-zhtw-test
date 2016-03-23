@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\architecture-overview.md](https://github.com/OpenLocalizationTest/azuretest/blob/98682a0468ca414a1ef12ceec2e30987325ed334/articles/architecture-overview.md) | HandedOffSuccess | [Details](#ef9dd65df941b9a7dc785eec68098ba6987064286178)
+ [articles\app-service-logic\app-service-logic-author-definitions.md](https://github.com/OpenLocalizationTest/azuretest/blob/575b87a7280969d1707abf5b46ec4ed3b8fd9fa5/articles/app-service-logic/app-service-logic-author-definitions.md) | HandedOffSuccess | [Details](#e749b7701463a14e00e68056df1c35422c68ad2e3986)
 
 ## Item Details
-##### <a name='ef9dd65df941b9a7dc785eec68098ba6987064286178'></a> Source: [articles\architecture-overview.md](https://github.com/OpenLocalizationTest/azuretest/blob/98682a0468ca414a1ef12ceec2e30987325ed334/articles/architecture-overview.md)
+##### <a name='e749b7701463a14e00e68056df1c35422c68ad2e3986'></a> Source: [articles\app-service-logic\app-service-logic-author-definitions.md](https://github.com/OpenLocalizationTest/azuretest/blob/575b87a7280969d1707abf5b46ec4ed3b8fd9fa5/articles/app-service-logic/app-service-logic-author-definitions.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [architecture-overview.28976b27aca11944f5c097e2ea8a44d47035debc.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/1372cf159e967c91b34877326501c63b8cf5a573/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/architecture-overview.28976b27aca11944f5c097e2ea8a44d47035debc.zh-tw.xlf)
-* Handoff Datetime: 2016-03-23 07:35:10
+* Handoff File: [app-service-logic-author-definitions.8658feff9653361300aa4f92938dca8fca2038fd.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/9e12e6fcd793982be0ac676d015c06290b50d4ed/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/app-service-logic-author-definitions.8658feff9653361300aa4f92938dca8fca2038fd.zh-tw.xlf)
+* Handoff Datetime: 2016-03-23 08:31:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
