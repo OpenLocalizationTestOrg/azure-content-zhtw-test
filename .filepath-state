@@ -5,6 +5,9 @@
   "6506967496b8a05a8a6b01f262c25b987a6e03a9": [
     "articles\\active-directory\\active-directory-aadconnect-accounts-permissions.md"
   ],
+  "6c822976f836a2d6aff1c1919a9132b7dfda5e57": [
+    "articles\\active-directory\\active-directory-aadconnect-account-summary.md"
+  ],
   "53d37262ffab23b2220a333bfa532e771a168e4d": [
     "articles\\active-directory\\active-directory-aadconnect-account-summary.md"
   ],
@@ -13541,10 +13544,12 @@
     "articles\\app-service-web\\media\\web-sites-connect-to-redis-using-memcache-protocol\\9-azure-website-appsettings-php-extensions.png"
   ],
   "341d695b825bdfed46e2bef027c06b8898d35662": [
-    "articles\\app-service-web\\media\\web-sites-create-web-app-using-vscode\\00b-dnvm-list.png"
+    "articles\\app-service-web\\media\\web-sites-create-web-app-using-vscode\\00b-dnvm-list.png",
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\00b-dnvm-list.png"
   ],
   "d03dacf3a41e91d98d8e4e12b6ec47b4fe0540a8": [
-    "articles\\app-service-web\\media\\web-sites-create-web-app-using-vscode\\00-where-dnvm.png"
+    "articles\\app-service-web\\media\\web-sites-create-web-app-using-vscode\\00-where-dnvm.png",
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\00-where-dnvm.png"
   ],
   "e8be3541cf5ab20ae8c7f689a8ef9c7b88d651fc": [
     "articles\\app-service-web\\media\\web-sites-create-web-app-using-vscode\\01-yo-aspnet.png"
@@ -20584,7 +20589,8 @@
   ],
   "50cc2e19b32f97558511ebbe2e573bc333d5574d": [
     "articles\\hdinsight\\media\\hdinsight-apache-spark-provision-clusters\\HDI.CreateCluster.8.png",
-    "articles\\hdinsight\\media\\hdinsight-provision-clusters\\HDI.CreateCluster.8.png"
+    "articles\\hdinsight\\media\\hdinsight-provision-clusters\\HDI.CreateCluster.8.png",
+    "articles\\hdinsight\\media\\hdinsight-hadoop-customize-cluster\\HDI.CreateCluster.8.png"
   ],
   "3dbe4daa793a1e98e1424a79ea01c7ab1c2922b7": [
     "articles\\hdinsight\\media\\hdinsight-apache-spark-provision-clusters\\HDI.CreateCluster.9.png",
@@ -20818,10 +20824,14 @@
     "articles\\hdinsight\\media\\hdinsight-hadoop-emulator-get-started\\hdi.emulator.vs.connected.png"
   ],
   "3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e": [
-    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install-linux\\giraph-graph.png"
+    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install-linux\\giraph-graph.png",
+    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install\\giraph-graph.png",
+    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install-v1\\giraph-graph.png"
   ],
   "46683c560067cda67e1a31b1f9bec686ad6c1465": [
-    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install-linux\\giraph-graph-out.png"
+    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install-linux\\giraph-graph-out.png",
+    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install\\giraph-graph-out.png",
+    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install-v1\\giraph-graph-out.png"
   ],
   "a400378ce19319641ca53ea253d2269227182f92": [
     "articles\\hdinsight\\media\\hdinsight-hadoop-heap-dump-linux\\filter.png"
@@ -21029,7 +21039,9 @@
     "articles\\hdinsight\\media\\hdinsight-provision-clusters\\provisioning.png"
   ],
   "27ecb7c701ed6bd0bddb7701de222160e7fcb0cd": [
-    "articles\\hdinsight\\media\\hdinsight-hadoop-solr-install-linux\\hdi-solr-dashboard-query.png"
+    "articles\\hdinsight\\media\\hdinsight-hadoop-solr-install-linux\\hdi-solr-dashboard-query.png",
+    "articles\\hdinsight\\media\\hdinsight-hadoop-solr-install\\hdi-solr-dashboard-query.png",
+    "articles\\hdinsight\\media\\hdinsight-hadoop-solr-install-v1\\hdi-solr-dashboard-query.png"
   ],
   "90f161cfddde88620f964123b8162a9075aaf22f": [
     "articles\\hdinsight\\media\\hdinsight-hadoop-solr-install-linux\\solrdashboard.png"
@@ -26682,14 +26694,16 @@
     "articles\\multi-factor-authentication\\media\\multi-factor-authentication-end-user-app-passwords\\delete3.png"
   ],
   "11af773c9889a15aefd2edc29b2f57d4603a1cd2": [
-    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-end-user-app-passwords-create-azure\\app2.png"
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-end-user-app-passwords-create-azure\\app2.png",
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\app2.png"
   ],
   "2c0866e7b7a37b0377953b5e12309b23b315f3ab": [
     "articles\\multi-factor-authentication\\media\\multi-factor-authentication-end-user-app-passwords-create-myapps\\apppassword.png"
   ],
   "9793979ea0da2af854c9f0ec7ec2d5c8b52f5ff9": [
     "articles\\multi-factor-authentication\\media\\multi-factor-authentication-end-user-app-passwords-create-myapps\\myapp.png",
-    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-end-user-manage-myapps\\myapp.png"
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-end-user-manage-myapps\\myapp.png",
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\myapp.png"
   ],
   "29fa3c2c38e1e8da876f225fd8631696025176f7": [
     "articles\\multi-factor-authentication\\media\\multi-factor-authentication-end-user-app-passwords-create-o365\\addsec.png",
@@ -26942,7 +26956,8 @@
     "articles\\multi-factor-authentication\\media\\multi-factor-authentication-how-it-works\\howitworks.png"
   ],
   "c3f327a19b3191a7a9bf8fc09c9c8f09b3823f2e": [
-    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-manage-reports\\report.png"
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-manage-reports\\report.png",
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\report.png"
   ],
   "562cccd7698589ac77d4246a7d6c889b3b9ef068": [
     "articles\\multi-factor-authentication\\media\\multi-factor-authentication-manage-users-and-devices\\deleteapppasswords.png"
@@ -31228,7 +31243,8 @@
     "articles\\sql-database\\media\\sql-database-elastic-pool-portal\\star.png"
   ],
   "7c6d46fa862376fe67607758d2b97ab2ce9fd378": [
-    "articles\\sql-database\\media\\sql-database-elastic-query-getting-started\\cmd-prompt.png"
+    "articles\\sql-database\\media\\sql-database-elastic-query-getting-started\\cmd-prompt.png",
+    "articles\\sql-database\\media\\sql-database-elastic-jobs-powershell\\cmd-prompt.png"
   ],
   "8f05e1addaa2b626b366c229925293ebc3897db7": [
     "articles\\sql-database\\media\\sql-database-elastic-query-getting-started\\details.png"
@@ -31237,7 +31253,8 @@
     "articles\\sql-database\\media\\sql-database-elastic-query-getting-started\\exel-sources.png"
   ],
   "4725ecc9d8792edcc0d3dc595409372f0846d651": [
-    "articles\\sql-database\\media\\sql-database-elastic-query-getting-started\\portal.png"
+    "articles\\sql-database\\media\\sql-database-elastic-query-getting-started\\portal.png",
+    "articles\\sql-database\\media\\sql-database-elastic-jobs-powershell\\portal.png"
   ],
   "fc3dde587690a5501aa4c5e998b0317a934f4197": [
     "articles\\sql-database\\media\\sql-database-elastic-query-getting-started\\tiers.png"
@@ -40197,5 +40214,368 @@
   ],
   "d0d8c1b500d7bf74f252fbd495f18b1e5790c794": [
     "testtttt.md"
+  ],
+  "b2217694e4f9a7e78f85517c3cde50d87a74f488": [
+    "articles\\active-directory\\media\\active-directory-passwords-learn-more\\001.jpg"
+  ],
+  "f7dc2a11e09b31a145b237483018e15811aa6d5f": [
+    "articles\\active-directory\\media\\active-directory-passwords-learn-more\\002.jpg"
+  ],
+  "465a5075033240cdbbc20d0af08ad84d8eb8fed7": [
+    "articles\\active-directory\\media\\active-directory-passwords-troubleshoot\\001.jpg"
+  ],
+  "bdbce8832f10fee8598933e6e43c69b50eb12cea": [
+    "articles\\active-directory\\media\\active-directory-passwords-troubleshoot\\002.jpg"
+  ],
+  "64d2267aa3815d36ffc5d9876ccbe7ad49434abd": [
+    "articles\\active-directory\\media\\active-directory-passwords-troubleshoot\\003.jpg"
+  ],
+  "640b18d064e6ebe466d67c598d94017d8df88b6f": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\01-yo-aspnet.png"
+  ],
+  "da9295fff8caf883bd8caaa7ebbc82e014bc1b2e": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\02-open-folder.png"
+  ],
+  "7eb36965dc8ed8d06cdf7b48b97d111751797737": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\03-vscode-contacts-project.png"
+  ],
+  "b9b213e1c0cfcad306b6348f18bde6e4583cc80c": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\04-dnu-restore.png"
+  ],
+  "55d9240064de2b78d8c73a1249d91bf4ed79c288": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\07-new-folder.png"
+  ],
+  "97ce3743c61f10934dd6377c336a8d1d122f7ad6": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\08-contacts-json.png"
+  ],
+  "23da5e51c9831af41f3891bc74a8969076697fbe": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\09-azure-newapiapp.png"
+  ],
+  "79ef088c751b4a166d7f27381d4bef2f5d9f22e8": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\10-azure-newappblade.png"
+  ],
+  "b3d12b5f52ac234277c0ddfd2257af6be0ce5015": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\11-azure-apiappblade.png"
+  ],
+  "726071c718c407cf2a38c53f875ea33f3eadb4f9": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\12-azure-appsettings.png"
+  ],
+  "dffdabf7ed6153353128f676183d233f47d7b0e2": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\13-azure-apiapphost.png"
+  ],
+  "a6559105729a5f69054f611ee067c0e2427e8ecd": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\14-azure-deployment.png"
+  ],
+  "bf364c15aaa7b631b924def31759a03505e8c0ec": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\15-azure-localrepository.png"
+  ],
+  "4450c9ff45a454dc99a725d48db858f70084c32b": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\16-azure-credentials.png"
+  ],
+  "1ea99dd1e8e542749634016d38a8e42282ef22a2": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\17-azure-giturl.png"
+  ],
+  "0dd5db831bd1c49e40c2f577098aea18e5e53843": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\18-azure-url.png"
+  ],
+  "d633a9117998c403bb5043019ff5cbd5f3e58e11": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\19-initgit.png"
+  ],
+  "2cbbf0e7585cb9a1ce28ce12a985ae9f5cb6cb94": [
+    "articles\\app-service-api\\media\\app-service-create-aspnet-api-app-using-vscode\\20-git-commit.png"
+  ],
+  "9b8147a4f88da30a1b13b8210836efbf2c01e549": [
+    "articles\\data-catalog\\media\\data-catalog-developer-concepts\\concept2.png"
+  ],
+  "e18e7139195d569239ed53a2186172cd463aef97": [
+    "articles\\documentdb\\media\\documentdb-indexing-policies\\index-transformations.png"
+  ],
+  "a60f68214029a38bfb511238f59e7f8596dcff28": [
+    "articles\\documentdb\\media\\documentdb-run-hadoop-with-hdinsight\\azurepowershell-diagram-med.png"
+  ],
+  "ea2ca92522dbf8fe9b594a8d78662b3e8b8ab38a": [
+    "articles\\documentdb\\media\\documentdb-run-hadoop-with-hdinsight\\customprovision-page1.png"
+  ],
+  "aceba2c3a5ac05f4af1318ff1447f3e1bb32fb47": [
+    "articles\\documentdb\\media\\documentdb-run-hadoop-with-hdinsight\\customprovision-page4.png"
+  ],
+  "14290ad535fef8933b6681403f8316d7586f431b": [
+    "articles\\documentdb\\media\\documentdb-run-hadoop-with-hdinsight\\customprovision-page5.png"
+  ],
+  "aab4e593e45d9de1282e7aa4ade9cce68ea24749": [
+    "articles\\documentdb\\media\\documentdb-run-hadoop-with-hdinsight\\hivequeryresults.PNG"
+  ],
+  "c5c398fd694beae1e27a31b3903b88ce3c52076f": [
+    "articles\\documentdb\\media\\documentdb-run-hadoop-with-hdinsight\\mapreducequeryresults.PNG"
+  ],
+  "b6d97eea995f5cecec072432cf57517cd846d983": [
+    "articles\\documentdb\\media\\documentdb-run-hadoop-with-hdinsight\\pigqueryresults.PNG"
+  ],
+  "768895811096303ed992b646aacbad0980a3c03b": [
+    "articles\\documentdb\\media\\documentdb-run-hadoop-with-hdinsight\\storagequickcreate.png"
+  ],
+  "830fc08974fdd6bdd8303f195bad26174972c99e": [
+    "articles\\documentdb\\media\\documentdb-sql-query\\sql-query1.png"
+  ],
+  "74793ffc7dc7228740ca94191e1dd1295e52078d": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-customize-cluster\\HDI-Cluster-state.png",
+    "articles\\hdinsight\\media\\hdinsight-hadoop-customize-cluster-v1\\HDI-Cluster-state.png"
+  ],
+  "37e536e0f41c7f819b2d52b66a09cfe03291d8b0": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-customize-cluster-v1\\HDI.CustomProvision.Page6.png"
+  ],
+  "7965cbc877ffc4975c22166c693b535d0bfec92d": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install\\hdi-script-action-giraph.png"
+  ],
+  "c22d658875fe50589ce983f5aeeb947354328181": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-giraph-install-v1\\hdi-script-action-giraph.png"
+  ],
+  "9e4d476f6ef87f03b47c50a44a8cfe1db54e2c0d": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-r-scripts\\hdi-r-script-action.png"
+  ],
+  "7ea81963047345fd351f48984d3c11e5208bf880": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-solr-install\\hdi-script-action-solr.png"
+  ],
+  "23662328b7402264e270b22d447de099d9ca2e8b": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-solr-install-v1\\hdi-script-action-solr.png"
+  ],
+  "26bcbc79d608e34a063520caa0266140f6f007ec": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-spark-install\\HDI.CustomProvision.Page6.png"
+  ],
+  "863ce999ef51dda6a315a12a9fe39bbf4411094e": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-spark-install\\hdi-scala-interactive.png"
+  ],
+  "ab079dfd95aaf6872209a4ebf28d062e7fb5a1df": [
+    "articles\\hdinsight\\media\\hdinsight-hadoop-spark-install\\hdi-spark-sql.png"
+  ],
+  "a67cd6b329acf193240148a4fb5227b05f090b8d": [
+    "articles\\machine-learning\\media\\machine-learning-data-science-move-sql-server-virtual-machine\\database_migration_wizard.png"
+  ],
+  "bca98485cdd361f80ad7c71f3f7a9bc06647a73e": [
+    "articles\\machine-learning\\media\\machine-learning-data-science-move-sql-server-virtual-machine\\sqlserver_builtin_utilities.png"
+  ],
+  "4950eeb7fb4542a46a3de6daaa5026d44fee60da": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-manage-users-and-devices\\suspend.png"
+  ],
+  "0abcdc35b2f94425f5abea6557e117268223abac": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\cache.png"
+  ],
+  "f24f5268f40869db01e27da2be5a87e887b89801": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\create1.png"
+  ],
+  "429afac5b57f3ed9c50b53e19809c1fbff35cedc": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\create2.png"
+  ],
+  "0cd5343f094ccbf1ee9ad6ba77ced188fff25db0": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\custom1.png"
+  ],
+  "31ac5320c62a3c0a5eca4e3f536c53d58e717ff0": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\custom2.png"
+  ],
+  "066633abd22753382a1bb999bdf4662d0805fdeb": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\custom3.png"
+  ],
+  "ad888ab353f8a58544edbf645d6719b46d1fb435": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\custom4.png"
+  ],
+  "0b82961a1d3b8fdab5b32135e524fdaaaf285a32": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\custom5.png"
+  ],
+  "fab60d662639663f3b615ac8b9e123359cde75d5": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\federated.png"
+  ],
+  "e7349e5145985e2b19a61e4fd54c7de2075d5643": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\fraud.png"
+  ],
+  "fd0f704aafdffe922a77f490550b2d1975685726": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\naming.png"
+  ],
+  "b1f03296cd144dbb825a76392143fb504e6f8e13": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\report1.png"
+  ],
+  "505dfc17f8c8b55d1c77295bbf7c13131ae64499": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\security.png"
+  ],
+  "49213cbe93b502a4fe88e66d7f66219297214945": [
+    "articles\\multi-factor-authentication\\media\\multi-factor-authentication-whats-next\\trustedips.png"
+  ],
+  "ee226511e994ec029d9558abc5a47412901c2f28": [
+    "articles\\operational-insights\\media\\operational-insights-search\\intersection.png"
+  ],
+  "e5f679d8e6ab241210609a918ee467ba6b7784a1": [
+    "articles\\operational-insights\\media\\operational-insights-search\\overview-search.png"
+  ],
+  "1f44a79fee4aded2b92d1cd9f5a9e873accc3fda": [
+    "articles\\operational-insights\\media\\operational-insights-search\\results01.png"
+  ],
+  "e6a46f9c3c2d08cee43d5b1ca65c38b863e1081e": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-boolean.png"
+  ],
+  "d9b61c3cf44996d1fa09ceb508e6b53ca7d061a9": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-error.png"
+  ],
+  "cfc8205742d2c8b175573f6c67eb330c58a500a5": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-facet.png"
+  ],
+  "4b73e7c8c64651f77389103ce4d90353cba829c6": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-measure-count01.png"
+  ],
+  "9200ba64ed89f05c92ea4151f05080b50cb691b2": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-measure-count-computer.png"
+  ],
+  "ad8347e93dd4eb1bfd85862e8e218d3222c2a02a": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-mobile.png"
+  ],
+  "f97c160d082a635224d2cda5f4e0e07204122033": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-results03.png"
+  ],
+  "ff556055c702774f438962773aadadfc17b43b6d": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-select.png"
+  ],
+  "9701ff3d9caea88fe37c27f991d6d3462be4f72d": [
+    "articles\\operational-insights\\media\\operational-insights-search\\search-top.png"
+  ],
+  "f2df84ca21083d49c8e1da979b16f882fc60c236": [
+    "articles\\sql-database\\media\\data-management-azure-sql-database-and-sql-server-iaas\\SQLIAAS_SQL_Server_Cloud_Continuum.png"
+  ],
+  "a20df7082ab0fb675ed24e99571b6bc909771660": [
+    "articles\\sql-database\\media\\sql-database-elastic-jobs-service-installation\\credentials.png"
+  ],
+  "5cdf7785a74daa227c05e269361850da04b60087": [
+    "articles\\sql-database\\media\\sql-database-elastic-jobs-service-installation\\incomplete.png"
+  ],
+  "59102843269cee9906535c381bdd8444b6dac103": [
+    "articles\\sql-database\\media\\sql-database-elastic-jobs-service-installation\\screen-1.png"
+  ],
+  "8e892907412ae316946bfdab5348fcda3aae8f09": [
+    "articles\\sql-database\\media\\sql-database-elastic-jobs-service-installation\\start-board.png"
+  ],
+  "15784801a73267fd894226da99638c19c9085251": [
+    "articles\\sql-database\\media\\sql-database-elastic-scale-configure-deploy-split-and-merge\\allowed-services.png"
+  ],
+  "c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f1": [
+    "articles\\sql-database\\media\\sql-database-elastic-scale-configure-deploy-split-and-merge\\staging.png"
+  ],
+  "20e50793f2ce19dba85a4351f60f2a3b920aa710": [
+    "articles\\sql-database\\media\\sql-database-elastic-scale-configure-deploy-split-and-merge\\upload.png"
+  ],
+  "450cec5896425c5093abe67988360bc20f1e3cbd": [
+    "articles\\storage\\media\\storage-premium-storage-preview-portal\\Azure_pricing_tier.png"
+  ],
+  "0dca11997bc8b9c72767f74098b5f421025797f5": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE01.png"
+  ],
+  "c96396eebd4b653cbfde3ef1972b1ea5d803e874": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE02.png"
+  ],
+  "a57d8ed84e4b32e14bc711f79c744478762dd769": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE03.png"
+  ],
+  "a5f243c57a54941d4cf606db230eb9891c68fbcc": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE04.png"
+  ],
+  "411ce74e23e1a81a3c78c3df7607c088738218d1": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE05.png"
+  ],
+  "579d211a95b3b7552d265def4e081dc5f9918614": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE06.png",
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE09.png",
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE18.png"
+  ],
+  "002fc2b11a82cf35bf7f09e4389cdc1a6fc26d2c": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE07.png"
+  ],
+  "296da6cb663ef42db1df9581600b81e2d1021114": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE08.png"
+  ],
+  "6bd96f95daac2190b82321c6aa8d79acc406b027": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE10.png"
+  ],
+  "06069d027a71949e571b6aa99211094441469b18": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE11.png"
+  ],
+  "0115879dec6f1419389f218ff035b07b52a011ef": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE12.png"
+  ],
+  "3e843e4092bfaa9e9e7c7454355c94a30fc5e1d9": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE13.png"
+  ],
+  "4428ed7401db7f55d03b3bec418323da92771a69": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE14.png"
+  ],
+  "0ed88900597be76eeb3b46c89d130f04d1da3be5": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE15.png"
+  ],
+  "45106cd83e21c0aca91279ad37e8461cca723503": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE16.png"
+  ],
+  "071e2e453a0ce2ad6f8adfd23a8110fda3e0559e": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE17.png"
+  ],
+  "8aaf69ba289ca26fb73873f2e0ee42fcc7a22dcd": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE19.png"
+  ],
+  "2fea4dbfaa93cf24dcb977242780a28deebcc8e6": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE20.png"
+  ],
+  "ec4f073d5f1653acc9a707b149a6eae718092483": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE21.png"
+  ],
+  "85a9d21fa7433a841740ffcf8bec6ca51ce7c701": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE22.png"
+  ],
+  "365dfb242856fe1b4c2ee486d2f402939cfea90d": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE23.png"
+  ],
+  "8f3c79ddc102cc09e16a82861437109db84d4ea2": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE24.png"
+  ],
+  "4d8ffaafabcea78c1f0c73abcb7f57b7b55bfd3e": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE25.png"
+  ],
+  "0668aeaaaf7482a5b71dc912eec99462d0a3dcd7": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE26.png"
+  ],
+  "0ece566413601b3ced00a69c81dec7b3f2a93a9c": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE27.png"
+  ],
+  "6ddf3257d807639b07d241b1de7b1be1df27b3ec": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE28.png"
+  ],
+  "5779d78e5592acd06817cab38c1e2c2390dfa6c7": [
+    "articles\\storage\\media\\storage-table-design-guide\\storage-table-design-IMAGE29.png"
+  ],
+  "74b98f627373f64060783454c6fa039e2caf95d6": [
+    "articles\\stream-analytics\\media\\stream-analytics-scale-jobs\\perf.png"
+  ],
+  "37e2f6af27c2509d31562bac2438c4eb27fe02ee": [
+    "articles\\stream-analytics\\media\\stream-analytics-scale-jobs\\StreamAnalytics.job.monitor.png"
+  ],
+  "e220b4f0f5d796d9664377df8a75cd77ec16a7ff": [
+    "articles\\stream-analytics\\media\\stream-analytics-scale-jobs\\StreamAnalyticsStreamingUnitsExample.jpg"
+  ],
+  "3ef4e6ff7747a0065d67c28e4a9aec57832c7651": [
+    "articles\\virtual-machines\\media\\virtual-machines-linux-nodejs-running-cassandra\\cassandra-linux1.png"
+  ],
+  "19468068506d337d3ebcc7eeb3f067606a0d3c31": [
+    "articles\\virtual-machines\\media\\virtual-machines-linux-nodejs-running-cassandra\\cassandra-linux2.png"
+  ],
+  "3d3b92f9827684f257f1ee4b51c1743a9978a2bc": [
+    "includes\\media\\application-model\\application-model-3.jpg"
+  ],
+  "402c69b7cc351f87545e2a665125e76bc9866bc3": [
+    "includes\\media\\application-model\\application-model-4.jpg"
+  ],
+  "cbc2ff4e5aba8c6dc838f4a33362da03ec91bacc": [
+    "includes\\media\\application-model\\application-model-5.jpg"
+  ],
+  "b7e8f42d850b1e9a33e2a86aab70849697456310": [
+    "includes\\media\\application-model\\application-model-6.jpg"
+  ],
+  "cc9e95a48f409fce013523db736abc0a01074818": [
+    "includes\\media\\application-model\\application-model-7.jpg"
+  ],
+  "bf52a36762f0016522196f240c9df4d619000461": [
+    "includes\\media\\application-model\\application-model-8.jpg"
   ]
 }
