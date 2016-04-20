@@ -10728,6 +10728,9 @@
   "2ecc0f609e99857f3ff1c7303281aa083cbb59cd": [
     "articles\\app-service-api\\app-service-api-dotnet-add-authentication.md"
   ],
+  "17c4ed98cf407be5b51b669dee2874b5c0f25dde": [
+    "articles\\app-service-api\\app-service-api-dotnet-connect-to-saas.md"
+  ],
   "c5a71157a6f9f2caa78dea18e1b7de7ef08f65b9": [
     "articles\\app-service-api\\app-service-api-dotnet-connect-to-saas.md"
   ],
@@ -37958,6 +37961,9 @@
   "af33bb3ea91af2f3db2848e19a0175e81ebf0602": [
     "includes\\media\\CreateVirtualMachineWindowsTutorial\\yesinitialize.png"
   ],
+  "7ccf00e3be6e4cfb3ba15575e0eb651ed4838dec": [
+    "includes\\media\\crossplat-cmd-tools\\freetrial.png"
+  ],
   "6b53ee1c10d6f8e8086136270d1f91ff71b3cb64": [
     "includes\\media\\custom-dns-web-site\\dncmntask-cname-1.png"
   ],
@@ -39258,6 +39264,7 @@
     "includes\\mobile-services-aad-rbac-test-app.md"
   ],
   "c5dc861fddc5357d5a08f3a179a2560ba153c267": [
+    "includes\\mobile-services-add-google-play-services.md",
     "includes\\mobile-services-add-Google-play-services.md"
   ],
   "6d5d091c764a2776e46e613df2bccaa95add4b3e": [
@@ -39447,6 +39454,7 @@
     "includes\\mobile-services-download-service-locally.md"
   ],
   "57d891b3683b7a48a894ae93a26440c3f750c72c": [
+    "includes\\mobile-services-enable-google-cloud-messaging.md",
     "includes\\mobile-services-enable-Google-cloud-messaging.md"
   ],
   "16cea260b8a34d85f08ff471605142903289008c": [
@@ -40065,9 +40073,11 @@
     "includes\\virtual-machines-choose-me-content.md"
   ],
   "1861bdbd70b3d39bfae11d662a2af27a01868e1b": [
+    "includes\\virtual-machines-create-linuxvm.md",
     "includes\\virtual-machines-create-LinuxVM.md"
   ],
   "caf9026138c5e57c5e61bbdc908ae536e495dc17": [
+    "includes\\virtual-machines-create-windowsvm.md",
     "includes\\virtual-machines-create-WindowsVM.md"
   ],
   "172d6b7369a2fc41bde0deb888312ae78fee3b9f": [

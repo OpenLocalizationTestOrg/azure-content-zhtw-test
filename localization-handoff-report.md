@@ -1,24 +1,42 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 6
+ Total Files | 11
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\azure-government-developer-guide.md](https://github.com/OpenLocalizationTest/azuretest/blob/c08e737c838d25102d8139d7b0c4cc583bd12eed/articles/azure-government-developer-guide.md) | HandedOffSuccess | [Details](#fd18ec2f82b215cf3d145009e65af4697580a4516323)
- [articles\best-practices-availability-checklist.md](https://github.com/OpenLocalizationTest/azuretest/blob/e696bd272aeb49d1a5cbdaa7cc46f8a2c8d3a2ab/articles/best-practices-availability-checklist.md) | HandedOffSuccess | [Details](#3b119974688410f69c24902aebb2b77ba71cc00f6620)
- [includes\mobile-services-add-Google-play-services.md](https://github.com/OpenLocalizationTest/azuretest/blob/34e23f6a75a567b41b4fb7e360f366a80b6f8343/includes/mobile-services-add-Google-play-services.md) | HandedOffSuccess | [Details](#c5dc861fddc5357d5a08f3a179a2560ba153c26717915)
- [includes\mobile-services-enable-Google-cloud-messaging.md](https://github.com/OpenLocalizationTest/azuretest/blob/34e23f6a75a567b41b4fb7e360f366a80b6f8343/includes/mobile-services-enable-Google-cloud-messaging.md) | HandedOffSuccess | [Details](#57d891b3683b7a48a894ae93a26440c3f750c72c17978)
- [includes\virtual-machines-create-LinuxVM.md](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/includes/virtual-machines-create-LinuxVM.md) | HandedOffSuccess | [Details](#1861bdbd70b3d39bfae11d662a2af27a01868e1b18186)
- [includes\virtual-machines-create-WindowsVM.md](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/includes/virtual-machines-create-WindowsVM.md) | HandedOffSuccess | [Details](#caf9026138c5e57c5e61bbdc908ae536e495dc1718187)
+ [articles\app-service\media\app-service-authentication-overview\saastoken.png](https://github.com/OpenLocalizationTest/azuretest/blob/34e23f6a75a567b41b4fb7e360f366a80b6f8343/articles/app-service/media/app-service-authentication-overview/saastoken.png) | HandedOffSuccess | [Details](#ff0cef6c6ac221a3e71caf4077b329519e238dbe5575)
+ [articles\app-service-api\app-service-api-dotnet-connect-to-saas.md](https://github.com/OpenLocalizationTest/azuretest/blob/c1c3ceefeaa49248e72ad4f77d832ca6f157318e/articles/app-service-api/app-service-api-dotnet-connect-to-saas.md) | HandedOffSuccess | [Details](#17c4ed98cf407be5b51b669dee2874b5c0f25dde3682)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\aadlogon.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/aadlogon.png) | HandedOffSuccess | [Details](#c4f28fc8ccf205cc3a4f6f6879942837723360fc3740)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\authblade.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/authblade.png) | HandedOffSuccess | [Details](#9f6caaaf10fc7db3cdb991538149c17e7453dfe43743)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\dbconsent.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/dbconsent.png) | HandedOffSuccess | [Details](#d8ea586c093e8c87ee7cfd2d5adbdc750f614cc83744)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\dblogon.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/dblogon.png) | HandedOffSuccess | [Details](#8afdb20d26756394229e01e3ccd3e05b1cec44d53745)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\gwurl.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/gwurl.png) | HandedOffSuccess | [Details](#31ed07c030dea806fa65e127dff2d555de21931b3747)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\http405.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/http405.png) | HandedOffSuccess | [Details](#48fdacd0d774a394f34e0e730061500ae978e0e43748)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\saastoken.png](https://github.com/OpenLocalizationTest/azuretest/blob/af62f0e4bff7e4e6e4859c2c279f3160c32cc1c1/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/saastoken.png) | HandedOffSuccess | [Details](#ff0cef6c6ac221a3e71caf4077b329519e238dbe3753)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\setref.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/setref.png) | HandedOffSuccess | [Details](#7fa38f167d5e821d46eb167f8fff4f5a54df502a3754)
+ [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\testclient.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/testclient.png) | HandedOffSuccess | [Details](#3b2d1b6115a75bf71491343ca5375de6ae234d243755)
 
 ## Item Details
-##### <a name='fd18ec2f82b215cf3d145009e65af4697580a4516323'></a> Source: [articles\azure-government-developer-guide.md](https://github.com/OpenLocalizationTest/azuretest/blob/c08e737c838d25102d8139d7b0c4cc583bd12eed/articles/azure-government-developer-guide.md)
+##### <a name='ff0cef6c6ac221a3e71caf4077b329519e238dbe5575'></a> Source: [articles\app-service\media\app-service-authentication-overview\saastoken.png](https://github.com/OpenLocalizationTest/azuretest/blob/34e23f6a75a567b41b4fb7e360f366a80b6f8343/articles/app-service/media/app-service-authentication-overview/saastoken.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [azure-government-developer-guide.846573582902dd2e354a63095b74d5839ddd8dfe.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/45f730ff21599b58901e883ab21a6019c565e55f/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/azure-government-developer-guide.846573582902dd2e354a63095b74d5839ddd8dfe.zh-tw.xlf)
-* Handoff Datetime: 2016-04-15 20:08:43
+* Handoff File: [ff0cef6c6ac221a3e71caf4077b329519e238dbe.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/ff0cef6c6ac221a3e71caf4077b329519e238dbe.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service\app-service-authentication-overview.md, articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
+* [Back to Top](#report-top)
+
+##### <a name='17c4ed98cf407be5b51b669dee2874b5c0f25dde3682'></a> Source: [articles\app-service-api\app-service-api-dotnet-connect-to-saas.md](https://github.com/OpenLocalizationTest/azuretest/blob/c1c3ceefeaa49248e72ad4f77d832ca6f157318e/articles/app-service-api/app-service-api-dotnet-connect-to-saas.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [app-service-api-dotnet-connect-to-saas.08e9ade7f0516a4a9e01b46c0d0b4242b4b7f66d.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/app-service-api-dotnet-connect-to-saas.08e9ade7f0516a4a9e01b46c0d0b4242b4b7f66d.zh-tw.xlf)
+* Handoff Datetime: 2016-04-20 09:26:47
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -26,64 +44,121 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3b119974688410f69c24902aebb2b77ba71cc00f6620'></a> Source: [articles\best-practices-availability-checklist.md](https://github.com/OpenLocalizationTest/azuretest/blob/e696bd272aeb49d1a5cbdaa7cc46f8a2c8d3a2ab/articles/best-practices-availability-checklist.md)
+##### <a name='c4f28fc8ccf205cc3a4f6f6879942837723360fc3740'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\aadlogon.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/aadlogon.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [best-practices-availability-checklist.92e1eb049d3fc050ef55160ecee54a4ed00f0217.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/45f730ff21599b58901e883ab21a6019c565e55f/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/best-practices-availability-checklist.92e1eb049d3fc050ef55160ecee54a4ed00f0217.zh-tw.xlf)
-* Handoff Datetime: 2016-04-15 20:08:43
-* Handoff Reason: Include
+* Handoff File: [c4f28fc8ccf205cc3a4f6f6879942837723360fc.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/c4f28fc8ccf205cc3a4f6f6879942837723360fc.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
 * [Back to Top](#report-top)
 
-##### <a name='c5dc861fddc5357d5a08f3a179a2560ba153c26717915'></a> Source: [includes\mobile-services-add-Google-play-services.md](https://github.com/OpenLocalizationTest/azuretest/blob/34e23f6a75a567b41b4fb7e360f366a80b6f8343/includes/mobile-services-add-Google-play-services.md)
+##### <a name='9f6caaaf10fc7db3cdb991538149c17e7453dfe43743'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\authblade.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/authblade.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-add-Google-play-services.d3cb8c6f338507367aac148410f7eca538141f2b.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/45f730ff21599b58901e883ab21a6019c565e55f/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/mobile-services-add-Google-play-services.d3cb8c6f338507367aac148410f7eca538141f2b.zh-tw.xlf)
-* Handoff Datetime: 2016-04-15 20:08:43
-* Handoff Reason: Include
+* Handoff File: [9f6caaaf10fc7db3cdb991538149c17e7453dfe4.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/9f6caaaf10fc7db3cdb991538149c17e7453dfe4.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
 * [Back to Top](#report-top)
 
-##### <a name='57d891b3683b7a48a894ae93a26440c3f750c72c17978'></a> Source: [includes\mobile-services-enable-Google-cloud-messaging.md](https://github.com/OpenLocalizationTest/azuretest/blob/34e23f6a75a567b41b4fb7e360f366a80b6f8343/includes/mobile-services-enable-Google-cloud-messaging.md)
+##### <a name='d8ea586c093e8c87ee7cfd2d5adbdc750f614cc83744'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\dbconsent.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/dbconsent.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-enable-Google-cloud-messaging.a2999638dd351cf3f7c0ed2e614fbe391810e6c4.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/45f730ff21599b58901e883ab21a6019c565e55f/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/mobile-services-enable-Google-cloud-messaging.a2999638dd351cf3f7c0ed2e614fbe391810e6c4.zh-tw.xlf)
-* Handoff Datetime: 2016-04-15 20:08:43
-* Handoff Reason: Include
+* Handoff File: [d8ea586c093e8c87ee7cfd2d5adbdc750f614cc8.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/d8ea586c093e8c87ee7cfd2d5adbdc750f614cc8.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
 * [Back to Top](#report-top)
 
-##### <a name='1861bdbd70b3d39bfae11d662a2af27a01868e1b18186'></a> Source: [includes\virtual-machines-create-LinuxVM.md](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/includes/virtual-machines-create-LinuxVM.md)
+##### <a name='8afdb20d26756394229e01e3ccd3e05b1cec44d53745'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\dblogon.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/dblogon.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-machines-create-LinuxVM.96fc1624e58ceb12138d3cc790071f4ade852201.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/45f730ff21599b58901e883ab21a6019c565e55f/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/virtual-machines-create-LinuxVM.96fc1624e58ceb12138d3cc790071f4ade852201.zh-tw.xlf)
-* Handoff Datetime: 2016-04-15 20:08:43
-* Handoff Reason: Include
+* Handoff File: [8afdb20d26756394229e01e3ccd3e05b1cec44d5.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/8afdb20d26756394229e01e3ccd3e05b1cec44d5.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
 * [Back to Top](#report-top)
 
-##### <a name='caf9026138c5e57c5e61bbdc908ae536e495dc1718187'></a> Source: [includes\virtual-machines-create-WindowsVM.md](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/includes/virtual-machines-create-WindowsVM.md)
+##### <a name='31ed07c030dea806fa65e127dff2d555de21931b3747'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\gwurl.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/gwurl.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-machines-create-WindowsVM.d8594816d12ccb4c61b9383944c155936c3f2756.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/45f730ff21599b58901e883ab21a6019c565e55f/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/virtual-machines-create-WindowsVM.d8594816d12ccb4c61b9383944c155936c3f2756.zh-tw.xlf)
-* Handoff Datetime: 2016-04-15 20:08:43
-* Handoff Reason: Include
+* Handoff File: [31ed07c030dea806fa65e127dff2d555de21931b.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/31ed07c030dea806fa65e127dff2d555de21931b.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
+* [Back to Top](#report-top)
+
+##### <a name='48fdacd0d774a394f34e0e730061500ae978e0e43748'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\http405.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/http405.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [48fdacd0d774a394f34e0e730061500ae978e0e4.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/48fdacd0d774a394f34e0e730061500ae978e0e4.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
+* [Back to Top](#report-top)
+
+##### <a name='ff0cef6c6ac221a3e71caf4077b329519e238dbe3753'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\saastoken.png](https://github.com/OpenLocalizationTest/azuretest/blob/af62f0e4bff7e4e6e4859c2c279f3160c32cc1c1/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/saastoken.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ff0cef6c6ac221a3e71caf4077b329519e238dbe.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/ff0cef6c6ac221a3e71caf4077b329519e238dbe.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service\app-service-authentication-overview.md, articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
+* [Back to Top](#report-top)
+
+##### <a name='7fa38f167d5e821d46eb167f8fff4f5a54df502a3754'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\setref.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/setref.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [7fa38f167d5e821d46eb167f8fff4f5a54df502a.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/7fa38f167d5e821d46eb167f8fff4f5a54df502a.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
+* [Back to Top](#report-top)
+
+##### <a name='3b2d1b6115a75bf71491343ca5375de6ae234d243755'></a> Source: [articles\app-service-api\media\app-service-api-dotnet-connect-to-saas\testclient.png](https://github.com/OpenLocalizationTest/azuretest/blob/0fb628c77801727aacdd21797b945b003cd157e4/articles/app-service-api/media/app-service-api-dotnet-connect-to-saas/testclient.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [3b2d1b6115a75bf71491343ca5375de6ae234d24.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cd983e09af5b26060bdec3517cbfc564e4287851/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/3b2d1b6115a75bf71491343ca5375de6ae234d24.png)
+* Handoff Datetime: 2016-04-20 09:26:47
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\app-service-api\app-service-api-dotnet-connect-to-saas.md
 * [Back to Top](#report-top)
 
 
