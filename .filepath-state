@@ -34353,6 +34353,9 @@
   "6777b3cee4084801dac8c8597d0c99ddcc19a504": [
     "includes\\app-service-api-exchange-dropbox-settings.md"
   ],
+  "01b6d49fce07bc270cdbaee457d2a0f4c31a06fa": [
+    "includes\\app-service-api-gateway-config-auth.md"
+  ],
   "cd0c2a4be3a47a75645c0e2c1f6ab17f4a9fc601": [
     "includes\\app-service-api-gateway-config-auth.md"
   ],
