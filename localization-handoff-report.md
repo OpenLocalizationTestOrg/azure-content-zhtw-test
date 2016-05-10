@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [includes\CreateVirtualMachineLinuxTutorial.md](https://github.com/OpenLocalizationTest/azuretest/blob/7aa76a4cff359e6a321a4adcf8ca9d4ff83906f9/includes/CreateVirtualMachineLinuxTutorial.md) | HandedOffSuccess | [Details](#e96ba15a047807b1d26d7e54075dc891506b0adb16759)
+ [contributor-guide\contributor-guide-index.md](https://github.com/OpenLocalizationTest/azuretest/blob/4e7cb2c96fc3823607ea315fb6a3b04bdb58fd8c/contributor-guide/contributor-guide-index.md) | HandedOffSuccess | [Details](#222c3a86ee10ec8e5031a7fb4cae3a71d387915716600)
 
 ## Item Details
-##### <a name='e96ba15a047807b1d26d7e54075dc891506b0adb16759'></a> Source: [includes\CreateVirtualMachineLinuxTutorial.md](https://github.com/OpenLocalizationTest/azuretest/blob/7aa76a4cff359e6a321a4adcf8ca9d4ff83906f9/includes/CreateVirtualMachineLinuxTutorial.md)
+##### <a name='222c3a86ee10ec8e5031a7fb4cae3a71d387915716600'></a> Source: [contributor-guide\contributor-guide-index.md](https://github.com/OpenLocalizationTest/azuretest/blob/4e7cb2c96fc3823607ea315fb6a3b04bdb58fd8c/contributor-guide/contributor-guide-index.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [CreateVirtualMachineLinuxTutorial.9c773892d9f91dd155c50d0afc3cea2de4f9c1ae.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/00e2ce10edeff12cb5210a5de60602df175f6c5f/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/CreateVirtualMachineLinuxTutorial.9c773892d9f91dd155c50d0afc3cea2de4f9c1ae.zh-tw.xlf)
-* Handoff Datetime: 2016-05-09 10:17:20
+* Handoff File: [contributor-guide-index.ba4c3ee3980fbea3ee209047331545362b3c9fa6.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/0a7f6775b457906c2f224fd190935ff94a44496a/ol-handoff/OpenLocalizationTestOrg/azure-content-zhtw-test/master/ht/contributor-guide-index.ba4c3ee3980fbea3ee209047331545362b3c9fa6.zh-tw.xlf)
+* Handoff Datetime: 2016-05-10 07:29:04
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
